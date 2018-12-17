@@ -7,4 +7,8 @@ Gem::Specification.new do |s|
     "lib/time_measure.rb"
   ]
   s.require_paths = ["lib"]
+  s.authors = ["Jey"]
+  s.email = "geetan123321@gmail.com"
+  s.homepage = 'https://github.com/gten/time_measure'
+  s.metadata = { "source_code_uri" => "https://github.com/gten/time_measure" }
 end
